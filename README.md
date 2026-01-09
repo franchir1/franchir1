@@ -96,6 +96,8 @@ Across projects, I consistently apply:
 
 ---
 
-📫 **Contacts**  
+## Contacts  
+- Email: riccardo.franchi@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/riccardo-franchi-b8413a235  
 - GitHub: https://github.com/franchir1
+
