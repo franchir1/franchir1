@@ -1,10 +1,8 @@
-
 # Riccardo Franchi
 
-Junior Data Analyst with an engineering background, focused on **analytically correct data modeling and KPI definition**.
+Materials engineer with industrial experience in manufacturing, field service, and sales support, focused on **analytical data modeling, KPI design, and operational performance analysis**.
 
-I started working on data analysis and data modeling in **October 2025**.  
-My work is built as a structured learning and portfolio path based on **end-to-end analytical projects** developed on real-world datasets.
+I started working on data analysis and data modeling in **October 2025**, building a structured portfolio based on **end-to-end analytical projects** developed on real-world datasets.
 
 The focus across projects is on:
 - data quality validation
@@ -39,10 +37,22 @@ The focus across projects is on:
 
 ## Featured Projects
 
+### Global Electricity Production — Power Query & Power Pivot  
+🔗 https://github.com/franchir1/global_electricity_production_powerquery_pivot
+
+Analytical project on global energy data, focused on data transformation and modeling using Excel Power Query and Power Pivot.
+
+- Cleaned and transformed global energy dataset using Power Query
+- Built a Power Pivot model to analyze production by country, source, and year
+- Developed KPIs: annual output, energy mix, growth trends
+- Created a structured data model for time-based analysis
+
+---
+
 ### NYC Restaurant Inspections — SQL Analytics  
 🔗 https://github.com/franchir1/nyc_restaurant_inspections_sql
 
-End-to-end analytical project based on NYC Department of Health and Mental Hygiene (DOHMH) restaurant inspection data.
+Analytical project based on NYC Department of Health and Mental Hygiene (DOHMH) restaurant inspection data.
 
 The dataset presents structural challenges: no stable inspection identifier and multiple violation rows per inspection. The project was redesigned to enforce **inspection-level analytical grain** and prevent metric distortion.
 
@@ -64,7 +74,7 @@ The dataset presents structural challenges: no stable inspection identifier and 
 ### Olist E-commerce — Power BI Dashboard  
 🔗 https://github.com/franchir1/olist_ecommerce_powerbi
 
-Business-oriented analytical dashboard built on the **Olist Brazilian E-commerce public dataset** (100k orders, 2016–2018), integrating orders, payments, customers, products, sellers, reviews, and geolocation.
+Analytical dashboard built on the **Olist Brazilian E-commerce public dataset** (100k orders, 2016–2018), integrating orders, payments, customers, products, sellers, reviews, and geolocation.
 
 The project was restructured to strengthen semantic consistency and metric normalization across multiple transactional tables.
 
@@ -86,7 +96,7 @@ The project was restructured to strengthen semantic consistency and metric norma
 - Sales and revenue trends  
 - Geographic and customer performance  
 - Product category contribution  
-- Operational delivery indicators  
+- Delivery performance indicators  
 
 ---
 
@@ -131,10 +141,8 @@ Across projects, I consistently apply:
   Politecnico di Torino  
 
 - Professional experience in:
-  - Field Service Engineering  
-  - Sales Engineering  
-
-with direct exposure to operational data, KPIs, and reporting in industrial contexts.
+  - **Field Service Engineering** (Pfeiffer Vacuum): on-site technical assistance in manufacturing and semiconductor plants, analysis of service interventions, reporting findings to engineering teams
+  - **Sales Engineering** (Cognex Inc.): client support for industrial automation and quality control, use of Power BI dashboards for performance tracking
 
 ---
 
